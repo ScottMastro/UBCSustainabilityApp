@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 8
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        applicationId "ubc.cs.cpsc210.sustainabilityapp"
+        minSdkVersion 8
+        targetSdkVersion 8
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/junit-4.10.jar')
+    compile files('libs/osmdroid-android-3.0.8.jar')
+    compile files('libs/samobf.jar')
+    compile files('libs/slf4j-android-1.5.8.jar')
+}

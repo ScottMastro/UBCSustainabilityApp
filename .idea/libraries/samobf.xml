@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="samobf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/samobf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

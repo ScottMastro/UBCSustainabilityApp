@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Scott\StudioProjects\UBCSustainabilityApp\app\libs\junit-4.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="28496454496957d3efb815d5a77723d8e3d8b912">
+        <dex dex="C:\Users\Scott\StudioProjects\UBCSustainabilityApp\app\build\intermediates\pre-dexed\debug\junit-4.10_8342e9216e239c372f6651058ce0cdb58054de32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Scott\StudioProjects\UBCSustainabilityApp\app\libs\slf4j-android-1.5.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="404eece4bb07ea211f5a879c22458775c612f0df">
+        <dex dex="C:\Users\Scott\StudioProjects\UBCSustainabilityApp\app\build\intermediates\pre-dexed\debug\slf4j-android-1.5.8_c46ff186cc1b19926b60fe6958e4f19edda47ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Scott\StudioProjects\UBCSustainabilityApp\app\libs\osmdroid-android-3.0.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4992d81fdbbb2065483d2c9ea063f4a539e7309d">
+        <dex dex="C:\Users\Scott\StudioProjects\UBCSustainabilityApp\app\build\intermediates\pre-dexed\debug\osmdroid-android-3.0.8_3f4e14c444dd519df829057435c309d2e84134e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Scott\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Scott\StudioProjects\UBCSustainabilityApp\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c7fd55531850280420db3908244f37f8745f2ab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Scott\StudioProjects\UBCSustainabilityApp\app\libs\samobf.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fb03d348efe7c6d67e0eca7888a537d223c9b112">
+        <dex dex="C:\Users\Scott\StudioProjects\UBCSustainabilityApp\app\build\intermediates\pre-dexed\debug\samobf_f468105a8c8a088b06b4ab2e051ffb2d722f690e.jar" />
+    </item>
+
+</items>

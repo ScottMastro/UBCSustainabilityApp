@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#000000</color>
+    <color name="ubcblue">#002859</color>
+    <color name="ubcgrey">#7491A3</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="text_large">10pt</dimen>
+    <string name="app_name">UBC Sustainability App</string>
+    <string name="hello">Hello World, UBCSustainabilityAppActivity!</string>
+    <string name="no_network">Network not available!</string>
+    <string name="ok_btn">OK</string>
+    <string name="rs_blank"> </string>
+    <string name="rs_label"> Routing service available</string>
+    <string name="rs_na_label">Failed to obtain route from routing service</string>
+    <style name="UBCStyle" parent="@android:style/Theme.NoTitleBar">
+		<item name="android:background">@color/ubcblue</item>
+	</style>
+</resources>
